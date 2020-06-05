@@ -1,4 +1,4 @@
-## GCP VM instances mpdule ##
+## GCP VM instances module ##
 
 this is a simple module you can use it to create: 
 - vm intances
